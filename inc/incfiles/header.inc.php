@@ -51,6 +51,7 @@ $unread_numrows = "(".$unread_numrows.")";
 					<li><a href="' . $user . '" class="" >Profile</a></li>
 					<li><a href="account_settings.php" class="" >Account Settings</a></li>
 					<li><a href="sell-an-item.php" class="" >Sell an Item</a></li>
+					<li><a href="your-item.php" class="" >Your Items</a></li>
 					<li><a href="logout.php" class="" >Logout</a></li>
 				</ul>
 			';
